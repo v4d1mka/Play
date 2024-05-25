@@ -1,0 +1,20 @@
+W:\!Личная\!ОСАЛП\4 семестр\ЛР - ИГРА\game\game\bin\Debug\game.exe.config
+W:\!Личная\!ОСАЛП\4 семестр\ЛР - ИГРА\game\game\bin\Debug\game.exe
+W:\!Личная\!ОСАЛП\4 семестр\ЛР - ИГРА\game\game\bin\Debug\game.pdb
+W:\!Личная\!ОСАЛП\4 семестр\ЛР - ИГРА\game\game\obj\Debug\game.csproj.AssemblyReference.cache
+W:\!Личная\!ОСАЛП\4 семестр\ЛР - ИГРА\game\game\obj\Debug\game.Form1.resources
+W:\!Личная\!ОСАЛП\4 семестр\ЛР - ИГРА\game\game\obj\Debug\game.Properties.Resources.resources
+W:\!Личная\!ОСАЛП\4 семестр\ЛР - ИГРА\game\game\obj\Debug\game.csproj.GenerateResource.cache
+W:\!Личная\!ОСАЛП\4 семестр\ЛР - ИГРА\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+W:\!Личная\!ОСАЛП\4 семестр\ЛР - ИГРА\game\game\obj\Debug\game.exe
+W:\!Личная\!ОСАЛП\4 семестр\ЛР - ИГРА\game\game\obj\Debug\game.pdb
+E:\Осалп\ЛР - ИГРА\game\game\bin\Debug\game.exe.config
+E:\Осалп\ЛР - ИГРА\game\game\bin\Debug\game.exe
+E:\Осалп\ЛР - ИГРА\game\game\bin\Debug\game.pdb
+E:\Осалп\ЛР - ИГРА\game\game\obj\Debug\game.csproj.AssemblyReference.cache
+E:\Осалп\ЛР - ИГРА\game\game\obj\Debug\game.Form1.resources
+E:\Осалп\ЛР - ИГРА\game\game\obj\Debug\game.Properties.Resources.resources
+E:\Осалп\ЛР - ИГРА\game\game\obj\Debug\game.csproj.GenerateResource.cache
+E:\Осалп\ЛР - ИГРА\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+E:\Осалп\ЛР - ИГРА\game\game\obj\Debug\game.exe
+E:\Осалп\ЛР - ИГРА\game\game\obj\Debug\game.pdb
